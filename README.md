@@ -1,6 +1,6 @@
 # linuxLearn
 <p align="center">  
-**linux学习--入门** 
+linux学习--入门  
 </p>   
 				
 * 一、	Linux文件系统  
@@ -59,11 +59,10 @@
 	*	2.	虚拟文件系统（Virtual File System，简称VFS）  
 	*	3.	类型：  
 	*	4.	文件描述符和打开模式
- 
-< br >
-< br >
+
+    
 <p align="center">  
-**linux学习--内核** 
+linux学习--内核  
 </p> 
 * 一、	进程  
 	*	1.	基本概念  
