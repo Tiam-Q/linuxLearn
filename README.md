@@ -1,13 +1,13 @@
 # linuxLearn
 				linux学习--入门
 * 一、	Linux文件系统  
-二、	Linux用户管理与文件权限  
-	1.	用户和用户组的关系  
-	2.	重要文件：  
-	3.	修改组-groupmod：  
-	4.	删除组-groupdel  
-	5.	关联用户和组-gpasswd  
-	6.	文件权限（使用ls -l命令查看）  
+* 二、	Linux用户管理与文件权限  
+	*	1.	用户和用户组的关系  
+	*	2.	重要文件：  
+	*	3.	修改组-groupmod：  
+	*	4.	删除组-groupdel  
+	*	5.	关联用户和组-gpasswd  
+	*	6.	文件权限（使用ls -l命令查看）  
 三、	Linux常用命令  
 四、	VI编辑器的使用  
 五、	Shell脚本编程  
