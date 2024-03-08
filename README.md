@@ -1,6 +1,6 @@
 # linuxLearn
 				linux学习--入门
-一、	Linux文件系统
+一、	Linux文件系统  
 二、	Linux用户管理与文件权限
 	1.	用户和用户组的关系
 	2.	重要文件：
