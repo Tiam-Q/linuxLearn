@@ -1,5 +1,8 @@
 # linuxLearn
-				linux学习--入门
+<p align="center">  
+**linux学习--入门** 
+</p>   
+				
 * 一、	Linux文件系统  
 * 二、	Linux用户管理与文件权限  
 	*	1.	用户和用户组的关系  
@@ -55,9 +58,13 @@
 	*	1.	概念  
 	*	2.	虚拟文件系统（Virtual File System，简称VFS）  
 	*	3.	类型：  
-	*	4.	文件描述符和打开模式  
-				linux学习--内核  
-
+	*	4.	文件描述符和打开模式
+ 
+< br >
+< br >
+<p align="center">  
+**linux学习--内核** 
+</p> 
 * 一、	进程  
 	*	1.	基本概念  
 	*	2.	结构特征  
