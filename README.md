@@ -136,6 +136,23 @@ linux学习--内核
 		*		（2）	用法  
 		*		（3）	相关函数  
 		*		（4）	代码示例  
+		
+		
+<p align="center">  
+linux学习--驱动  
+</p> 
+		
+* 一、	helloworld驱动实验  
+	*	1.	内核模块代码框架组成  
+	*	2.	printk 函数  
+	*	3.	许可证  
+	*	4.	相关信息声明  
+	*	5.	makefile  
+	*	6.	helloworld.c  
+	*	7.	使用模块  
+
+		
+		
 
 
 
